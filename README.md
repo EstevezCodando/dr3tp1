@@ -95,6 +95,7 @@ Inserimos as palavras **"casa", "carro", "caminhão", "cachorro" e "cadeira"** n
 📂 Código + Visualização: [Ex8_TrieGraph.py](Ex8_TrieGraph.py)
 
 📷 **Exemplo da estrutura gerada**:
+```bash
 Estrutura da Trie:
 └── c
     └── a
@@ -120,3 +121,4 @@ Estrutura da Trie:
                 └── i
                     └── r
                         └── a (*)
+```
